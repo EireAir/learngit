@@ -1,0 +1,1 @@
+cmd_/home/DPDK/dpdk-18.05/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/built-in.a := rm -f /home/DPDK/dpdk-18.05/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/built-in.a; ar cDPrST /home/DPDK/dpdk-18.05/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/built-in.a 

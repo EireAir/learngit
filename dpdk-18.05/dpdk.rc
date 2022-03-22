@@ -1,0 +1,2 @@
+export RTE_SDK=`pwd`
+export RTR_TARGET=x86_64-default_linuxapp_gcc
